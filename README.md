@@ -25,7 +25,7 @@ Built natively in **Python** using **Streamlit** and **Plotly**, the application
   - Safe top spacing (`padding-top: 5rem`) ensuring clear separation from Streamlit's top menu bar (deploy button, status indicator, hamburger menu).
   - Prominent positioning badges for current role at ACB Bank.
 - **Direct Executive Navigation (Inside Hero Section):**
-  - The 6 main navigation buttons (`🏠 Tổng quan`, `💼 Kinh nghiệm`, `⚡ Năng lực & Kỹ năng`, `📊 Portfolio Dashboard`, `🎓 Học vấn & Chứng chỉ`, `📬 Liên hệ`) are positioned directly beneath the contact metadata row inside the Hero section.
+  - The 6 main navigation buttons (`🏠 Overview`, `💼 Kinh nghiệm`, `⚡ Exp & Skills`, `📊 Portfolio Dashboard`, `🎓 Edu & Certi`, `📬 Contact`) are positioned directly beneath the contact metadata row inside the Hero section.
   - Interactive multi-line wrapping and consistent height (`min-height: 44px`) across devices.
   - Portfolio Dashboard product filter (`All Products`, `Unsecured Loan`, `Credit Card`, `BNPL`) continues to use styled button toggles.
 - **Streamlined Recruiter Experience:**
