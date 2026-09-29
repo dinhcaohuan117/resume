@@ -289,12 +289,6 @@ CONFIG: Dict[str, Any] = {
             "organization": "MOVI Vietnam",
             "note": "Contact phone/email available upon request",
         },
-        {
-            "name": "Đinh Văn Hiệu",
-            "title": "Manager – Retail Risk Management",
-            "organization": "CIMB Bank Vietnam",
-            "note": "Contact phone/email available upon request",
-        },
     ],
 
     # ----------------------------- Portfolio Projects -------------------------------
