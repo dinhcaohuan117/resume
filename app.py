@@ -279,14 +279,14 @@ CONFIG: Dict[str, Any] = {
         },
         {
             "name": "Nguyễn Văn Quỳnh",
-            "title": "Senior Underwriting Strategy Manager",
-            "organization": "MOVI Vietnam",
+            "title": "Solutions Design Manager",
+            "organization": "ACB Bank",
             "note": "Contact phone/email available upon request",
         },
         {
             "name": "Nguyễn Minh Triều",
             "title": "Vice President – Head of Business Performance",
-            "organization": "MOVI Vietnam",
+            "organization": "CIMB Bank Vietnam",
             "note": "Contact phone/email available upon request",
         },
     ],
