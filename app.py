@@ -273,7 +273,7 @@ CONFIG: Dict[str, Any] = {
     "references": [
         {
             "name": "Chu Nguyên Tú",
-            "title": "Vice President – Credit Risk",
+            "title": "Vice President – Head of Credit Risk",
             "organization": "CIMB Bank Vietnam",
             "note": "Contact phone/email available upon request",
         },
@@ -284,8 +284,14 @@ CONFIG: Dict[str, Any] = {
             "note": "Contact phone/email available upon request",
         },
         {
+            "name": "Nguyễn Minh Triều",
+            "title": "Vice President – Head of Business Performance",
+            "organization": "MOVI Vietnam",
+            "note": "Contact phone/email available upon request",
+        },
+        {
             "name": "Đinh Văn Hiệu",
-            "title": "Assistant Manager – Risk Management",
+            "title": "Manager – Retail Risk Management",
             "organization": "CIMB Bank Vietnam",
             "note": "Contact phone/email available upon request",
         },
