@@ -259,6 +259,8 @@ CONFIG: Dict[str, Any] = {
 
     # ----------------------------- Certifications -----------------------------------
     "certifications": [
+        {"year": "2026", "title": "Applied Data Science Lab", "issuer": "WorldQuant University"},
+        {"year": "2025", "title": "Smart Analytics, Machine Learning, and AI on Google Cloud", "issuer": "Google"},
         {"year": "2025", "title": "SQL (Advanced)", "issuer": "HackerRank"},
         {"year": "2024", "title": "Human Skills for Managers Professional Certificate", "issuer": "LinkedIn Learning"},
         {"year": "2023", "title": "Credit Risk Management", "issuer": "New York Institute of Finance (NYIF)"},
