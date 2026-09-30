@@ -849,12 +849,12 @@ def render_hero_section() -> None:
         
         # 6 MODERN NAVIGATION BUTTONS DIRECTLY UNDER CONTACT DETAILS
         pages = [
-            ("Overview", "🏠 Tổng quan"),
-            ("Experience", "💼 Kinh nghiệm"),
-            ("Competencies & Skills", "⚡ Năng lực & Kỹ năng"),
+            ("Overview", "🏠 Overview"),
+            ("Experience", "💼 Experience"),
+            ("Competencies & Skills", "⚡Competencies"),
             ("Portfolio Dashboard", "📊 Portfolio Dashboard"),
-            ("Education & Certs", "🎓 Học vấn & Chứng chỉ"),
-            ("Contact", "📬 Liên hệ"),
+            ("Education & Certs", "🎓 Edu & Certs"),
+            ("Contact", "📬 Contact"),
         ]
         
         current_page = st.session_state.get("nav_page", "Overview")
